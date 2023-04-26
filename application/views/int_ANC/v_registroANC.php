@@ -636,7 +636,7 @@
         <div class="modal-dialog modal-xl" role="document">
             <div class="modal-content">
                 <div class="modal-header bg-dark text-white">
-                    <h5 class="modal-title" id="htexto">CONTROLE DE SAÍDA DE NÃO CONFORMIDADE</h5>
+                    <h5 class="modal-title" id="htexto">LANÇAMENTO DE PEÇAS DANIFICADAS</h5>
                     <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
