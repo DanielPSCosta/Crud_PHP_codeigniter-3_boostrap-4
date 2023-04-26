@@ -760,7 +760,7 @@
 
                     </form>
                 </div>
-                <div class="modal-footer bg-dark text-white pb-1" id="btnCadastrar">
+                <div class="modal-footer bg-dark text-white py-1" id="btnCadastrar">
                     <div class="" id="limpartabPrinc">
                         <button type="button" class="btn btn-light btn-block" onclick="limpar()"><i class="fas fa-eraser"></i> LIMPAR</button>
                     </div>
