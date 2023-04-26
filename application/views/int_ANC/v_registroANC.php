@@ -603,7 +603,6 @@
         <h1 style="text-align: center; margin-top:20px;">LANÇAMENTO DE PEÇAS DANIFICADAS</h1>
         <div id="toolbar">
             <button class="btn btn-outline-danger" data-toggle="modal" onclick="modalCadDefeito()">LANÇAMENTO</button>
-            <!-- <button class="btn btn-outline-success" data-toggle="modal" onclick="modalBuscaDesvio()">LANÇAMENTOS DE DESVIO DE CONCESSÃO</button> -->
         </div>
         <!-- //////////////////////////////////////////////////////////////// -->
         <!-- ///////// Objetivo: TABELA PRINCIPAL                    //////// -->
