@@ -522,6 +522,8 @@
 
                     buscaNProduto(result['0'].produto);
 
+                    $('#limpartabPrinc').addClass('d-none');
+
                     swal({
                         timer: 100,
                         title: "Aguarde!",
@@ -562,9 +564,6 @@
                     <button class="btn btn-danger" onclick="btnDeletar(\'' + id + '\')"><i class="bi bi-trash"></i></button>'
         }
 
-        $(function() {
-            $("#txtDataLan").datepicker();
-        });
     </script>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -603,6 +602,7 @@
         <h1 style="text-align: center; margin-top:20px;">LANÇAMENTO DE PEÇAS DANIFICADAS</h1>
         <div id="toolbar">
             <button class="btn btn-outline-danger" data-toggle="modal" onclick="modalCadDefeito()">LANÇAMENTO</button>
+            <!-- <button class="btn btn-outline-success" data-toggle="modal" onclick="modalBuscaDesvio()">LANÇAMENTOS DE DESVIO DE CONCESSÃO</button> -->
         </div>
         <!-- //////////////////////////////////////////////////////////////// -->
         <!-- ///////// Objetivo: TABELA PRINCIPAL                    //////// -->
