@@ -7,7 +7,7 @@ Insira o projeto na pasta C:\\xampp\\htdocs.
 
 Em seguida entre no navegador e insira na URL: http://localhost/Boostrap-table-codeigniter-main/Boostrap-table-codeigniter-main/
 
-Login: admin
+login: administrador
 
 Senha: admin
 
